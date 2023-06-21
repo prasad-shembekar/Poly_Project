@@ -7,6 +7,6 @@ The FacultyMessenger project leverages PHP's robust capabilities to create a use
 
 Overall, the FacultyMessenger project using PHP aims to promote seamless communication, collaboration, and information exchange among teaching faculty members. It empowers educators to stay connected, informed, and engaged within their academic community, thereby enhancing teaching effectiveness and fostering a culture of collaboration.
 
-###Home Page
+#Home Page
 ![image](https://github.com/prasad-shembekar/Poly_Project/assets/89524884/88c90321-019b-4b8b-abeb-ea710f058bd6)
 
